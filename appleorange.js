@@ -19,8 +19,6 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
  console.log(orangesCount)     
 }
 
-console.log(applesCount)
- console.log(orangesCount) 
 
 function main() {
   const st = readLine().split(' ');
