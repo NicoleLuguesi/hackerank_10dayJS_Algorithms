@@ -7,3 +7,5 @@ function angryProfessor(minStudents, arrivalTimes) {
   }
 }
 console.log(angryProfessor(3, [-1, 3, 2, 0, 0]));
+
+// test
